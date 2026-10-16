@@ -1,0 +1,161 @@
+
+* {
+  box-sizing: border-box;
+} 
+body {
+  background-color: #f4f7fb;
+  margin: 0;
+  padding: 20px ;
+}
+.countainer {
+  width: 80%;
+  margin: auto;
+}
+.clear-fix {
+  clear: both;
+}
+.f-l {
+  float: left;
+}
+ .blue {
+  color: #0b3d73;
+}
+ 
+.f-r {
+  float: right;
+}
+ 
+.w-100 {
+  width: 100%;
+}
+ 
+.w-25 {
+  width: 25%;
+}
+ 
+.p-10 {
+  padding: 10px 10px;
+}
+ .baby-blue {
+  color: rgb(47, 139, 139);
+}
+.light-blue {  
+  color: #5bb5ff;
+}
+.header {
+  width: 700px;
+  background-color: rgb(3, 71, 120);
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 10px;
+  color: aliceblue;
+  margin: auto;
+}
+.a-style {
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: rgba(250, 248, 248, 0.3);
+  display: inline-block;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.about-me {
+  width: 700px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 10px 20px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+ 
+.img-holder {
+  width: 25%;
+}
+ 
+.img {
+  width: 100%;
+  border-radius: 50%;
+}
+ 
+.info {
+  width: 75%;
+  padding-left: 20px;
+}
+ 
+.btn {
+  display: inline-block;
+  background-color: #28415b;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
+.my-skills {
+  width: 700px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px 10px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.card {
+  width: 20%;
+  padding: 10px 10px;
+  border-radius: 20px;
+  margin: 10px 13px;
+  background-color: #fafcff;
+  border:1px gray solid;
+}
+.experiance {
+  width: 700px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px 10px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.wide-card {
+  background-color: #f8fafc;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border-left: 4px solid #293b4e;
+  margin-bottom: 15px;
+}
+.wide-card h3 {
+ margin-top:10px;
+}
+.wide-card h4 {
+ margin-top:10px;
+}
+.wide-card p {
+margin-top: 10px;
+}
+.logo {
+  width: 20%;
+  padding: 10px;
+}
+.job-info {
+  width: 80%;
+  padding-left: 15px;
+}
+.circle {
+  border-radius: 50%;
+}
+.contact {
+  width: 700px;
+  margin-top:50px ;
+  margin:auto;
+  background-color:#2e7ccf;
+  color:aliceblue;
+  padding:20px 10px;
+  border-radius:20px;
+}
+ .footer{
+  width: 700px;
+  margin: 20px auto;
+  background-color: #2f4864;
+  color: aliceblue;
+  text-align: center;
+  padding: 10px;
+  border-radius: 20px;}
